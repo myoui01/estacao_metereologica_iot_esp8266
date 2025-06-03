@@ -2,8 +2,8 @@
 #include <DHT.h>
 
 // ======= CONFIGURAÇÃO Wi-Fi =======
-const char* ssid = "ACONTECE TWIBI";
-const char* password = "QaLBH8uyiu";
+const char* ssid = "";
+const char* password = "";
 
 WiFiServer server(80);
 
